@@ -9,6 +9,7 @@ function App() {
       <Nav/>
     <h1 style={{color:"red"}}>Hello React</h1>
 
+        <button className="btn btn-primary">Click Me</button>
     </>
 
   )
